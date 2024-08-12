@@ -1,16 +1,13 @@
-## Hi there 👋
+<a href="https://github.com/KnowisCoding">
+    <img src="https://github-stats-alpha.vercel.app/api?username=knowiscoding&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
-<!--
-**KnowIsCoding/KnowisCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔓 My base languages: Python, JS, CSS
 
-Here are some ideas to get you started:
+<summary>My statistics:</summary>
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knowiscoding&theme=dracula) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knowiscoding&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knowiscoding&theme=dracula)
+<br>
