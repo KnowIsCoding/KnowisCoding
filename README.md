@@ -3,7 +3,7 @@
 </a>
 
 <summary> 🔓 My base languages: Python, JS, CSS <summary>
-
+<details>
 <summary>My statistics:</summary>
 
 <br>
@@ -12,3 +12,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knowiscoding&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knowiscoding&theme=dracula)
 <br>
+<details>
