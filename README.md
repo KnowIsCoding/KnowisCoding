@@ -2,9 +2,9 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=knowiscoding&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-<summary> 🔓 My base languages: Python, JS, CSS <summary>
+<summary> 🔓 Not my base languages: Python, JS, CSS <summary>
 <details>
-<summary> 📃 My statistics:</summary>
+<summary> 📃 Not my statistics:</summary>
 
 <br>
 
